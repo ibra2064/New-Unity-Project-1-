@@ -189,3 +189,59 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1529.664573 seconds.
+  path: Assets/Images/GeometricShapes/Circle.png
+  artifactKey: Guid(810ce5a8a90e54eae837c6c5ad4bb98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes/Circle.png using Guid(810ce5a8a90e54eae837c6c5ad4bb98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd65f7f6f55062450da5b39456a1196') in 0.635527 seconds 
+  Import took 0.650306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002963 seconds.
+  path: Assets/Images/GeometricShapes/Hexagon.png
+  artifactKey: Guid(96d5a8d6b8803478a85ef0f85b581c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes/Hexagon.png using Guid(96d5a8d6b8803478a85ef0f85b581c6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd68983ee2371eab4c49882ea53def7ed') in 0.014034 seconds 
+  Import took 0.017978 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Images/GeometricShapes/RoundedSquare.png
+  artifactKey: Guid(03e8c13697b6d472f99eba994a499a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes/RoundedSquare.png using Guid(03e8c13697b6d472f99eba994a499a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6085aabaa4c959039fa19cc0ab2c1d7') in 0.010460 seconds 
+  Import took 0.014220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Images/GeometricShapes/Trapezoid.png
+  artifactKey: Guid(50a6adcb0021f40e4937ddce93e90ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes/Trapezoid.png using Guid(50a6adcb0021f40e4937ddce93e90ffc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e0d3bbeda55fb6323a02d301e100294') in 0.009879 seconds 
+  Import took 0.013488 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Images/GeometricShapes/Square.png
+  artifactKey: Guid(a59159c4864834b6f924d22111b82134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes/Square.png using Guid(a59159c4864834b6f924d22111b82134) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2068b7dbc6263c4f9603a098c613476b') in 0.009182 seconds 
+  Import took 0.012986 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.571139 seconds.
+  path: Assets/Images/GeometricShapes
+  artifactKey: Guid(0d15bbf9f5bf94b8f952b2939ef12faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes using Guid(0d15bbf9f5bf94b8f952b2939ef12faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6651a8d0887f65b4bf8cc1ca2a196d61') in 0.001560 seconds 
+  Import took 0.009024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001112 seconds.
+  path: Assets/Images/GeometricShapes
+  artifactKey: Guid(0d15bbf9f5bf94b8f952b2939ef12faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/GeometricShapes using Guid(0d15bbf9f5bf94b8f952b2939ef12faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6651a8d0887f65b4bf8cc1ca2a196d61') in 0.000933 seconds 
+  Import took 0.006789 seconds .
+
